@@ -16,11 +16,14 @@
     "@mui/material": "^6.4.4",
     "@react-google-maps/api": "^2.20.6",
     "babel-loader": "^9.2.1",
+    "dotenv": "^16.4.7",
     "firebase": "^11.3.1",
     "lottie-react": "^2.4.1",
     "lottie-web": "^5.12.2",
+    "node-env-file": "^0.1.8",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.5"
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
